@@ -103,7 +103,7 @@ const Form1 = () => {
           Submit
         </button>
       </form>
-      {/* <Form1Table /> */}
+      <Form1Table />
     </div>
   );
 };
